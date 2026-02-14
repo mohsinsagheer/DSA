@@ -1,3 +1,6 @@
 [submodule "Cpp-Syntax"]
 	path = Cpp-Syntax
 	url = https://github.com/mohsinsagheer/Cpp-Syntax.git
+[submodule "Array01"]
+	path = Array01
+	url = https://github.com/mohsinsagheer/Array01.git
